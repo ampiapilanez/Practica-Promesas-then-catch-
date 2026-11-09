@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    margin: 5%;
+    padding-top: 5%;
+    text-align: center;
+}
+#boton {
+    margin: 5%;
+    padding: 1%;
+    border-radius: 10%;
+    background-color: rgb(8, 53, 4);
+    color: rgb(211, 212, 206);
+}
+.conteiner{
+    background-color: rgb(97, 181, 113);
+}
+#respuestaUsuario{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5%;
+    padding: 3% 15%;
+    border: 2px solid black;
+}
